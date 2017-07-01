@@ -1,0 +1,35 @@
+html {
+	font-size: 14px;
+	font-faily: 'Patrick Hand SC', cursive;
+	font-family: 'Lobster', cursive;
+	background-color: #F8E6E6;
+	}
+	body {
+		width: 600px;
+		margin: 0 auto;
+		background-color: #EB9F3C;
+		padding: 0px 20px 20px 20px;
+		border: 5px solid black;
+	}
+h1 {
+	margin: 0;
+	padding: 20px 0;
+	color: #E10E11;
+	text-shadow: 2px 2px 2px black;
+	font-size: 60px;
+	text-align: center;	
+}
+p {
+	font-size: 26px;
+	line-height: 2;
+	letter-specing: 1px;
+	color: #9400D3;
+}
+img {display: block;
+	margin: 0 auto;
+}
+ul {color: #3C3FEB; 
+	font-size: 16px;
+	line-height: 2;
+	letter-specing: 1px;
+}
